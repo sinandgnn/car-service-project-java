@@ -1,0 +1,20 @@
+# Format: type,brand,model,segment,transmissionType,trunkCapacity,color,age,fuelType,dailyRentalRate
+Sedan,Toyota,Camry,D,Automatic,500,Black,2,Petrol,800
+Hatchback,Volkswagen,Golf,C,Manual,400,White,3,Diesel,600
+SUV,Jeep,Wrangler,E,Automatic,600,Red,1,Petrol,1000
+Sedan,Honda,Accord,D,Automatic,550,Blue,4,Petrol,850
+Hatchback,Ford,Focus,C,Manual,350,Silver,2,Diesel,550
+SUV,BMW,X5,E,Automatic,650,Black,3,Diesel,1200
+Sedan,Mercedes-Benz,E-Class,D,Automatic,500,Gray,5,Petrol,900
+Hatchback,Audi,A3,C,Automatic,370,White,1,Petrol,620
+SUV,Land Rover,Discovery,E,Automatic,700,Green,2,Diesel,1300
+Sedan,Hyundai,Sonata,D,Manual,480,Red,3,Petrol,780
+Hatchback,Kia,Ceed,C,Manual,330,Blue,2,Petrol,500
+SUV,Volvo,XC90,E,Automatic,680,White,4,Diesel,1100
+Sedan,Tesla,Model S,D,Automatic,500,Black,1,Electric,950
+Hatchback,Citroen,C4,C,Manual,300,Silver,3,Diesel,530
+SUV,Mercedes-Benz,GLC,E,Automatic,650,Blue,2,Petrol,1250
+Sedan,BMW,3 Series,D,Automatic,490,White,4,Petrol,870
+Hatchback,Seat,Leon,C,Manual,360,Red,2,Diesel,580
+SUV,Audi,Q7,E,Automatic,700,Black,1,Petrol,1400
+Sedan,Lexus,ES,D,Automatic,510,Gray,3,Hybrid,920
